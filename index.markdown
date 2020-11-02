@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+<h1>Herzlich Willkommen!</h1>
+Auf dieser Seite findet ihr alle Informationen zu unserer Hochzeit am 21.08.2021.
