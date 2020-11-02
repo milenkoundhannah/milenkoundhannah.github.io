@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Impressum
+permalink: /impressum/
 ---
 
 <h1 class="adsimple-321227313">Impressum</h1>
