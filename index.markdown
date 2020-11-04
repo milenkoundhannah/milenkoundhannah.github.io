@@ -9,7 +9,7 @@ layout: home
 Auf dieser Seite findet ihr alle Informationen zu unserer Hochzeit am 21.08.2021.
 
 <h1>Rückmeldung</h1>
-Wenn ihr eine Save-the-Date Karte erhalten habt, lasst uns bitte wissen ob ihr Zeit habt, das hilft uns bei der weiteren Planung.
+Wenn ihr eine Einladung erhalten habt, lasst uns bitte wissen ob ihr Zeit habt, das hilft uns bei der weiteren Planung.
 
 <form action="https://formspree.io/f/xnqovbdr" method="POST">
 
