@@ -8,7 +8,7 @@ permalink: /impressum/
 <p class="adsimple-321227337">Informationspflicht laut § 5 TMG.</p>
 <p class="adsimple-321227337">
 <p>Milenko Starcik</p>
-<p class="adsimple-321227337">Adenauerring 25B, <br />64823 Gross-Umstadt, <br />Deutschland</p>
+<p class="adsimple-321227337">Heinrich-Möser-Straße 26, <br />64823 Gross-Umstadt, <br />Deutschland</p>
 <p class="adsimple-321227337">
 <strong>E-Mail:</strong> <a href="mailto:starcikm@gmail.com">starcikm@gmail.com</a>
 </p>
