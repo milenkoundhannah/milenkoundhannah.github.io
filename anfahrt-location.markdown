@@ -18,4 +18,4 @@ Das Parken ist entweder auf den eingezeichneten Flächen direkt vor der Location
 
 Der Zutritt zum Biergarten erfolgt über eine Treppe rechts vom "Käsekeller".
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.929105997085573%2C49.86885120120992%2C8.935827612876894%2C49.87194909236412&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/#map=18/49.87040/8.93247">View Larger Map</a></small>
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=8.928086757659914%2C49.86900679200032%2C8.93668591976166%2C49.87210467317509&amp;layer=mapnik&amp;marker=49.870555757425414%2C8.932386338710785" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=49.87056&amp;mlon=8.93239#map=18/49.87056/8.93239">View Larger Map</a></small>
