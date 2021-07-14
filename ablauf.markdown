@@ -8,9 +8,9 @@ permalink: /ablauf/
 
 | Wann? | Was? | Wo? |
 | --- | --- | --- |
-| 15:00 | Trauung | Veste Otzberg, Otzberg |
-| 15:30 | Glückwuensche und Fotos | Veste Otzberg, Otzberg |
-| 16:30 | Sektempfang | Biergarten Felsenkeller, Groß-Umstadt |
+| 15:00 | Trauung | Feste Otzberg, Otzberg |
+| 15:20 | Glückwuensche und Fotos | Feste Otzberg, Otzberg |
+| 16:00 | Sektempfang | Biergarten Felsenkeller, Groß-Umstadt |
 | 18:00 | Abendessen | Biergarten Felsenkeller, Groß-Umstadt |
 | 20:00 | Kaffee und Kuchen | Biergarten Felsenkeller, Groß-Umstadt |
 | 22:00 | Imbiss | Biergarten Felsenkeller, Groß-Umstadt |
