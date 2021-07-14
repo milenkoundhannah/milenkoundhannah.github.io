@@ -4,6 +4,7 @@ title: Impressum
 permalink: /impressum/
 ---
 
+<meta name ="robots" content="noindex"/>
 <<h1 class="adsimple-321290335">Impressum</h1>
 <p class="adsimple-321290335">Informationspflicht laut § 5 TMG.</p>
 <p class="adsimple-321290335">Heinrich-Möser-Straße 26, <br />64823 Groß-Umstadt, <br />Deutschland</p>
