@@ -36,8 +36,8 @@ Ich bin bereits vollständig geimpft:
 <label> Nein <input type="radio" name="corona-impfung" value="nein" /></label><br>
   
 Ich bringen einen negative Corona-Test mit (nicht älter als 24 Stunden):
-<label> Ja <input type="radio" name="corona-impfung" value="ja" /></label>
-<label> Nein <input type="radio" name="corona-impfung" value="nein" /></label><br>
+<label> Ja <input type="radio" name="corona-test" value="ja" /></label>
+<label> Nein <input type="radio" name="corona-test" value="nein" /></label><br>
   
 <label> Meine Telefonnummer (bei Rückfragen und für das Gesundheitsamt): <input type="text" name="telefonnummer"/></label><br>
 
