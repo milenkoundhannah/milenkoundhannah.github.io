@@ -31,6 +31,7 @@ Ich komme zur Feier:
   
 Falls ihr gar nicht kommen könnt, kreuzt bitte beide male nein an.
 
+
 Ich bin bereits vollständig geimpft:
 <label> Ja <input type="radio" name="corona-impfung" value="ja" /></label>
 <label> Nein <input type="radio" name="corona-impfung" value="nein" /></label><br>
