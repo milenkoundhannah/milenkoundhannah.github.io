@@ -42,6 +42,10 @@ Ich bringe einen negativen Corona-Test mit (nicht älter als 24 Stunden):
   
 <label> Meine Telefonnummer (bei Rückfragen und für das Gesundheitsamt): <input type="text" name="telefonnummer"/></label><br>
 
+Ich suche noch eine Übernachtungsmöglichkeit:
+<label> Ja <input type="radio" name="uebernachtung" value="ja" /></label>
+<label> Nein <input type="radio" name="uebernachtung" value="nein" /></label><br>
+  
 <label> Eure Nachricht an uns: <input type="text" name="nachricht"/></label><br>
 
 <button type="submit">Absenden</button>
