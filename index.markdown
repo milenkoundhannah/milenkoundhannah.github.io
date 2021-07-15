@@ -32,11 +32,11 @@ Ich komme zur Feier:
 Falls ihr gar nicht kommen könnt, kreuzt bitte beide male nein an.
 
 <br/>
-Ich bin bereits vollständig geimpft:
+Ich bin bereits vollständig geimpft und bringe einen Nachweis mit:
 <label> Ja <input type="radio" name="corona-impfung" value="ja" /></label>
 <label> Nein <input type="radio" name="corona-impfung" value="nein" /></label><br>
   
-Ich bringen einen negative Corona-Test mit (nicht älter als 24 Stunden):
+Ich bringe einen negativen Corona-Test mit (nicht älter als 24 Stunden):
 <label> Ja <input type="radio" name="corona-test" value="ja" /></label>
 <label> Nein <input type="radio" name="corona-test" value="nein" /></label><br>
   
