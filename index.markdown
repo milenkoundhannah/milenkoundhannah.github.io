@@ -21,7 +21,7 @@ Ich möchte noch jemanden mitbringen, der nicht auf meiner Einladung steht:
   
 <label> Name des Gastes, falls ja: <input type="text" name="weiterer-gast-name"/></label><br>
 
-Ich komme zur Trauung:
+Ich komme zur Trauung und warte im Innehof der Feste Otzberg:
 <label> Ja <input type="radio" name="zusage-trauung" value="ja" /></label>
 <label> Nein <input type="radio" name="zusage-trauung" value="nein" /></label><br>
 
@@ -30,11 +30,15 @@ Ich komme zur Feier:
 <label> Nein <input type="radio" name="zusage-feier" value="nein" /></label><br>
   
 Falls ihr gar nicht kommen könnt, kreuzt bitte beide male nein an.
-  
-Ich bringe einen Corona-Test mit oder bin bereits geimpft:
+
+Ich bin bereits vollständig geimpft:
 <label> Ja <input type="radio" name="corona-impfung" value="ja" /></label>
 <label> Nein <input type="radio" name="corona-impfung" value="nein" /></label><br>
-
+  
+Ich bringen einen negative Corona-Test mit (nicht älter als 24 Stunden):
+<label> Ja <input type="radio" name="corona-impfung" value="ja" /></label>
+<label> Nein <input type="radio" name="corona-impfung" value="nein" /></label><br>
+  
 <label> Meine Telefonnummer (bei Rückfragen und für das Gesundheitsamt): <input type="text" name="telefonnummer"/></label><br>
 
 <label> Eure Nachricht an uns: <input type="text" name="nachricht"/></label><br>
