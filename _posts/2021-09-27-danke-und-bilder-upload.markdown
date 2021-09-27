@@ -9,9 +9,7 @@ categories: jekyll update
 
 wir danken euch vielmals für den unvergesslichen Abend, den wir mit euch verbringen durften!
 
-Um die Erinnerungen festzuhalten haben viele von euch Fotos gemacht, wenn ihr möchtet könnt ihr diese gerne hier hochladen: 
-
-<iframe src="https://drive.google.com/embeddedfolderview?id=1GQq2PJ310dcV2GujJNs_A4VDjHvavg6S#list" style="width:100%; height:600px; border:0;"></iframe>
+Um die Erinnerungen festzuhalten haben viele von euch Fotos gemacht, wenn ihr möchtet könnt ihr diese gerne <a href="https://drive.google.com/drive/folders/1GQq2PJ310dcV2GujJNs_A4VDjHvavg6S?usp=sharing">hier hochladen.</a> 
 
 Alles Liebe,
 Eurer Brautpaar Hannah und Milenko
