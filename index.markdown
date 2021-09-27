@@ -5,9 +5,6 @@
 layout: home
 ---
 
-<h1>Herzlich Willkommen!</h1>
-Auf dieser Seite findet ihr alle Informationen zu unserer Hochzeit am 21.08.2021. Bitte lest euch zuerst den Ablauf und die Informationen zur Trauung und der Feier durch, bevor ihr das Formular ausfüllt.
-
 <h1>Liebe Gäste,</h1>
 
 wir danken euch vielmals für den unvergesslichen Abend, den wir mit euch verbringen durften!
