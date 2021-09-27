@@ -14,5 +14,5 @@ wir danken euch vielmals für den unvergesslichen Abend, den wir mit euch verbri
 
 Um die Erinnerungen festzuhalten haben viele von euch Fotos gemacht, wenn ihr möchtet könnt ihr diese gerne <a href="https://drive.google.com/drive/folders/1GQq2PJ310dcV2GujJNs_A4VDjHvavg6S?usp=sharing">hier hochladen.</a> 
 
-Alles Liebe,
+Alles Liebe,<br/>
 Eurer Brautpaar Hannah und Milenko
