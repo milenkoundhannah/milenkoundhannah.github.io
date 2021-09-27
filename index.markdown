@@ -8,45 +8,11 @@ layout: home
 <h1>Herzlich Willkommen!</h1>
 Auf dieser Seite findet ihr alle Informationen zu unserer Hochzeit am 21.08.2021. Bitte lest euch zuerst den Ablauf und die Informationen zur Trauung und der Feier durch, bevor ihr das Formular ausfüllt.
 
-<h1>Rückmeldung</h1>
-Wenn ihr eine Einladung erhalten habt, lasst uns bitte wissen ob ihr Zeit habt, das hilft uns bei der weiteren Planung.
+<h1>Liebe Gäste,</h1>
 
-<form action="https://formspree.io/f/xnqovbdr" method="POST">
+wir danken euch vielmals für den unvergesslichen Abend, den wir mit euch verbringen durften!
 
-<label>Name/n: <input type="text" name="name"></label><br>
-  
-Ich möchte noch jemanden mitbringen, der nicht auf meiner Einladung steht: 
-<label> Ja <input type="radio" name="weiterer-gast" value="ja" /></label>
-<label> Nein <input type="radio" name="weiterer-gast" value="nein" /></label><br>
-  
-<label> Name des Gastes, falls ja: <input type="text" name="weiterer-gast-name"/></label><br>
+Um die Erinnerungen festzuhalten haben viele von euch Fotos gemacht, wenn ihr möchtet könnt ihr diese gerne <a href="https://drive.google.com/drive/folders/1GQq2PJ310dcV2GujJNs_A4VDjHvavg6S?usp=sharing">hier hochladen.</a> 
 
-Ich komme zur Trauung und warte im Innehof der Feste Otzberg:
-<label> Ja <input type="radio" name="zusage-trauung" value="ja" /></label>
-<label> Nein <input type="radio" name="zusage-trauung" value="nein" /></label><br>
-
-Ich komme zur Feier: 
-<label> Ja <input type="radio" name="zusage-feier" value="ja" /></label>
-<label> Nein <input type="radio" name="zusage-feier" value="nein" /></label><br>
-  
-Falls ihr gar nicht kommen könnt, kreuzt bitte beide male nein an.
-
-<br/>
-Ich bin bereits vollständig geimpft und bringe einen Nachweis mit:
-<label> Ja <input type="radio" name="corona-impfung" value="ja" /></label>
-<label> Nein <input type="radio" name="corona-impfung" value="nein" /></label><br>
-  
-Ich bringe einen negativen Corona-Test mit (nicht älter als 24 Stunden):
-<label> Ja <input type="radio" name="corona-test" value="ja" /></label>
-<label> Nein <input type="radio" name="corona-test" value="nein" /></label><br>
-  
-<label> Meine Telefonnummer (bei Rückfragen und für das Gesundheitsamt): <input type="text" name="telefonnummer"/></label><br>
-
-Ich suche noch eine Übernachtungsmöglichkeit:
-<label> Ja <input type="radio" name="uebernachtung" value="ja" /></label>
-<label> Nein <input type="radio" name="uebernachtung" value="nein" /></label><br>
-  
-<label> Eure Nachricht an uns: <input type="text" name="nachricht"/></label><br>
-
-<button type="submit">Absenden</button>
-</form><br>
+Alles Liebe,
+Eurer Brautpaar Hannah und Milenko
